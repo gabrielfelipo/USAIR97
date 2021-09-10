@@ -10,4 +10,4 @@
 - Streamlit
 
 ## Video
-[![Explanation video](https://img.youtube.com/vi/https://youtu.be/phW__8t7FQs/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/phW__8t7FQs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=phW__8t7FQs/0.jpg)](https://www.youtube.com/watch?v=phW__8t7FQs)
