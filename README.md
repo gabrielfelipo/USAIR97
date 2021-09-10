@@ -9,5 +9,5 @@
 - Python
 - Streamlit
 
-## Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/watch?v=phW__8t7FQs/0.jpg)](https://www.youtube.com/watch?v=phW__8t7FQs)
+## Explanation Video
+[![Explanation Video](./mq3.jpg)](https://www.youtube.com/watch?v=phW__8t7FQs)
