@@ -21,6 +21,7 @@ ap2 = st.selectbox(options=list(range(1, vertices)), label='Aeroporto 2')
 
 if st.button('BUSCAR'):
     dist, path = Djikst(adj, distance, ap1-1, ap2-1)
+    path= str(path)
     path=path.split()
     path[0]=str(ap1)
     st.success(f'A distância entre os aeroportos {ap1} e {ap2} é {dist}')
